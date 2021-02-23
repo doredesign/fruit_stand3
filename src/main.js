@@ -5,8 +5,5 @@ import 'bootstrap/dist/css/bootstrap.css' // Import precompiled Bootstrap css
 import '@fortawesome/fontawesome-free/css/all.css'
 
 new App({
-  target: document.getElementById('demo'),
-  props: {
-    name: 'world'
-  }
+  target: document.getElementById('demo')
 });
