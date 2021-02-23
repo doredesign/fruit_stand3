@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-svelte": "^4.0.8",
+    "svelte": "^3.32.3"
+  }
+}
